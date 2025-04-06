@@ -1,26 +1,110 @@
-## Hi there 👋
+# 💻 Abdulselam Adill Mohammed
 
-<!--
-**Ashadowmonarch/Ashadowmonarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a systems-driven software engineer who loves building performant solutions from the ground up — from physical circuits and networking labs to scalable microservice infrastructure on the cloud. I explore everything from writing HTTP servers in C to deploying full-stack apps using Kubernetes and Terraform. Currently building a 4-bit computer, studying for the CCNA, and chasing the edge of what I can create.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- CCNA Networking: OSPF, HSRP, VLANs, NAT, SNMP
+- Writing a Web Server in C
+- Building a 4-bit Breadboard Computer
+- Kubernetes Autoscaling + Observability
+- Advanced LeetCode (Contests, Hard Problems)
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashadowmonarch&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashadowmonarch&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashadowmonarch&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💼 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
+
+---
+
+### 🧰 Frameworks & Libraries
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-333?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-333?style=flat&logo=redux)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat)
+
+---
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-333?style=flat&logo=ansible)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-333?style=flat&logo=grafana)
+![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=flat&logo=githubactions)
+
+---
+
+### ☁️ Cloud & Infra
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
+- EC2, RDS, Amplify, S3, Route 53, VPC, IAM
+
+---
+
+### 🧪 Testing & Monitoring
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
+![Pytest](https://img.shields.io/badge/-Pytest-333?style=flat)
+![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-333?style=flat&logo=grafana)
+
+---
+
+### 🧠 Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
+
+---
+
+### 🌐 Networking & Security
+- Cisco Packet Tracer, VLANs, NAT, OSPF, HSRP, DHCP, RSTP, IPv6
+- Syslog, SNMP, SSH, DNS, Port Security, ACLs, DHCP Snooping, Wireless LANs
+
+---
+
+## 📊 GitHub Stats
+![Abdulselam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashadowmonarch&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashadowmonarch&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 LeetCode Progress
+- 🧠 333 Problems Solved  
+- 🟩 120 Medium, 🟥 4 Hard  
+- 🔥 [LeetCode Profile](https://leetcode.com/your-username)
+
+---
+
+## ✍️ Blog Posts (Coming Soon)
+Stay tuned for deep dives on:
+- Building a Microservices Cloud Platform with Terraform + K8s
+- How I Configured a Dual-Office Enterprise Network from Scratch
+- Designing a 4-bit Breadboard CPU by Hand
+
+---
+
+Let’s connect and build cool stuff! 🚀
+
