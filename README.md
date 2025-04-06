@@ -6,8 +6,6 @@ I’m a systems-driven software engineer who thrives across the full stack — f
 - ⚙️ Writing a **custom HTTP server in C**.
 - 🌐 Simulating **enterprise-grade network infrastructure** (CCNA level).
 - ☁️ Deploying multi-framework APIs on Kubernetes clusters using Terraform, Jenkins, and Docker — with real-time observability using Prometheus & Grafana.
-- 📈 Practicing for FAANG interviews with a focus on performance, scale, and reliability.
-
 ---
 
 ## 🧠 Currently Learning
@@ -15,7 +13,6 @@ I’m a systems-driven software engineer who thrives across the full stack — f
 - CCNA Routing & Switching (VLANs, OSPF, HSRP, NAT, SNMP)
 - Low-level systems engineering
 - Distributed system scaling and observability
-- Advanced LeetCode patterns + contest prep
 
 ---
 
@@ -81,7 +78,7 @@ I’m a systems-driven software engineer who thrives across the full stack — f
 
 - 🔢 333 Problems Solved  
 - 🟨 120 Medium, 🟥 4 Hard  
-- 🎯 Focused on algorithmic mastery for FAANG-style interviews
+- 🎯 Focused on algorithmic mastery
 
 ---
 
