@@ -1,8 +1,8 @@
 # 👋 Hey there, I’m Abdulselam Adill Mohammed
 
-I’m a systems-driven software engineer who thrives across the full stack — from low-level memory management in C to orchestrating cloud-native microservices at scale.
+I’m a systems-driven developer who thrives across the full stack — from low-level memory management in C to orchestrating cloud-native microservices at scale.
 
-- 🧠 Currently building a **4-bit computer** from scratch on breadboards.
+- 🧠 Currently building a **8-bit computer** from scratch on breadboards.
 - ⚙️ Writing a **custom HTTP server in C**.
 - 🌐 Simulating **enterprise-grade network infrastructure** (CCNA level).
 - ☁️ Deploying multi-framework APIs on Kubernetes clusters using Terraform, Jenkins, and Docker — with real-time observability using Prometheus & Grafana.
