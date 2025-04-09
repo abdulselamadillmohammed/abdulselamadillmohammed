@@ -87,7 +87,7 @@ I’m a systems-driven developer who thrives across the full stack — from low-
 Stay tuned for write-ups on:
 - “**Building a Scalable Cloud Platform with Terraform, K8s, and Grafana**”
 - “**Designing a Dual-Office Network with VLANs, OSPF, and HSRP**”
-- “**Why I’m Building a 4-bit CPU from Scratch (and How)**”
+- “**Why I’m Building a 8-bit CPU from Scratch (and How)**”
 
 ---
 
