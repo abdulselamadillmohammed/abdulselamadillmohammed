@@ -60,8 +60,8 @@ I’m a systems-driven developer who thrives across the full stack — from low-
 
 ## 📊 GitHub Stats
 
-![Abdulselam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashadowmonarch&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashadowmonarch&layout=compact&theme=tokyonight)
+![Abdulselam's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulselamadillmohammed&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulselamadillmohammed&layout=compact&theme=tokyonight)
 
 ---
 
