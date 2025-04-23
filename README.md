@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Abdulselam Adill Mohammed
 
-I’m a systems-driven developer who thrives across the full stack — from low-level memory management in C to orchestrating cloud-native microservices at scale.
+I’m a systems-driven developer who thrives across the full stack — from low-level memory management in C to orchestrating cloud-native microservices at scale
 
 - 🧠 Currently building an **8-bit computer** from scratch on breadboards  
 - ⚙️ Writing a **custom HTTP server in C**  
