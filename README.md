@@ -5,7 +5,7 @@ I’m a systems-driven developer who thrives across the full stack — from low-
 - 🧠 Currently building an **8-bit computer** from scratch on breadboards  
 - ⚙️ Writing a **custom HTTP server in C**  
 - 🌐 Simulating **enterprise-grade network infrastructure** (CCNA level)  
-- ☁️ Deploying multi-framework APIs on Kubernetes clusters using Terraform, Jenkins, and Docker — with real-time observability via Prometheus & Grafana.
+- ☁️ Deploying multi-framework APIs on Kubernetes clusters using Terraform, Jenkins, and Docker — with real-time observability via Prometheus & Grafana
 
 ---
 
