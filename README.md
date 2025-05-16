@@ -71,8 +71,8 @@ I’m a systems-driven developer who thrives across the full stack — from low-
 ![LeetCode badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)  
 [My LeetCode Profile →](https://leetcode.com/u/amonarch123/)
 
-- 🔢 335 Problems Solved  
-- 🟨 120 Medium, 🟥 4 Hard  
+- 🔢 336 Problems Solved  
+- 🟨 122 Medium, 🟥 4 Hard  
 - 🎯 Focused on algorithmic mastery  
 
 ---
